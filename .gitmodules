@@ -1,0 +1,6 @@
+[submodule "client"]
+	path = client
+	url = https://github.com/Ben-PH/sb-client
+[submodule "server"]
+	path = server
+	url = https://github.com/Ben-PH/sb-server
