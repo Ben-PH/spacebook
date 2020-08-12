@@ -6,4 +6,4 @@
 	url = https://github.com/Ben-PH/sb-server
 [submodule "shared"]
 	path = shared
-	url = ./shared/
+	url = https://github.com/Ben-PH/sb-shared
